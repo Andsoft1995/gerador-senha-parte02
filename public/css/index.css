@@ -1,0 +1,46 @@
+*{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.fundo{
+    width:100%;
+    min-height: 100vh;
+    background-image: url(/img/BNA.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 10px 10%;
+    overflow: hidden;
+    position: absolute;
+}
+.fundo .row .container aside{
+    background: rgba(0,0,0,0.6);
+}
+.fundo .row .container{
+    margin-top: 50px;
+}
+.fundo .row .container article{
+    background: rgba(64, 147, 185, 0.6);
+}
+.pergunta .modal{
+    background: rgba(0,0,0,0.6);
+}
+.navbar-fixed nav{
+    background: rgba(64, 147, 185, 0.6);
+}
+.atendimento{
+    margin-top: 10px;
+}
+.fundo .row .container article ul li .collapsible-header{
+    border-radius: 0px;
+}
+.fundo .row .container article .collapsible{
+    border-radius: 0px;
+}
+.fundo .row .container article .collapsible .collapsible-body .card-panel{
+    border-radius: 0px;
+}
+.fundo .row .container article .collapsible .collapsible-body .card-panel{
+    background: rgba(0,0,0,0.6);
+    color: white;
+    font-family: verdana;
+    font-size: 14px;
+}

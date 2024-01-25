@@ -1,0 +1,18 @@
+.fundo{
+    width:100%;
+    min-height: 100vh;
+    /* background-image: url(/img/download.jpg); */
+    background-size: cover;
+    background-position: center;
+    padding: 10px 10%;
+    overflow: hidden;
+    position: absolute;
+}
+.row .form_conta .card{
+    background: rgba(236, 235, 235, 0.6);
+    margin-top: 210px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+    font-size: 16px;
+}

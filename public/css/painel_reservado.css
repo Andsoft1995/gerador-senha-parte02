@@ -1,0 +1,19 @@
+*{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.fundo{
+    width:100%;
+    min-height: 100vh;
+    background-image: url(/img/BNA.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 10px 10%;
+    overflow: hidden;
+    position: absolute;
+}
+nav{
+    background: rgba(64, 147, 185, 0.6);
+}
+.row .modal{
+    background: rgba(64, 147, 185, 0.6);
+}

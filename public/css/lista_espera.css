@@ -1,0 +1,21 @@
+*{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.fundo{
+    width:100%;
+    min-height: 100vh;
+    background-image: url(/img/BNA.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 10px 10%;
+    overflow: hidden;
+    position: absolute;
+}
+.fundo .row table{
+    background: rgba(64, 147, 185, 0.6);
+    margin-top: 20px;
+}
+.fundo .row table thead tr th{
+    font-size: 20px;
+    color: white;
+}
